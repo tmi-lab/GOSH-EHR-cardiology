@@ -3,6 +3,7 @@
 This repository contains the code, documentation, and resources for the study:
 
 **"Clinically-applicable prediction of hospital stay and patient similarity retrieval in paediatric cardiology using machine learning"**
+Louise Rigny et al. 
 
 ## 🧠 Overview
 
