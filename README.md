@@ -40,3 +40,13 @@ Key components:
 git clone https://github.com/<your-org-or-username>/paediatric-cardiology-ml.git
 cd paediatric-cardiology-ml
 pip install -r requirements.txt
+
+
+## 🙏 Acknowledgements
+This work was supported by:
+
+- Great Ormond Street Hospital Charity (Grant 21PP30)
+- NIHR GOSH Biomedical Research Centre
+- UKRI EPSRC & NIHR Protect/Resilient Project (EP/W031892/1)
+- Royal Academy of Engineering
+- UK Dementia Research Institute (UK DRI-7002)
