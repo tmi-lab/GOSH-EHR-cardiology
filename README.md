@@ -25,14 +25,14 @@ Key components:
 
 ## 📊 Results
 
-- RF model achieved **91% accuracy** in LoS prediction, outperforming clinicians.
+- RF model achieved **88% accuracy** in LoS prediction, outperforming clinicians.
 - BioClinical-BERT embeddings enabled meaningful patient similarity retrieval.
 - Silent deployment over 6 months showed consistent performance.
 - Clinician feedback indicated moderate-to-high utility in real-world settings.
 
 ##  Code
               
-├── models/                 # Training scripts for RF and BioClinical-BERT               
+├── models/                 # Training scripts for MIMIC-based models and GOSH traditional models               
 └── README.md
 
 ## 🛠️ Installation

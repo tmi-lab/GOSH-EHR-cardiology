@@ -1,0 +1,10 @@
+pandas==2.3.3
+numpy==1.26.4
+transformers==4.57.1
+torch==2.2.2
+tqdm==4.67.1
+imbalanced-learn==0.14.1
+wandb==0.22.3
+scikit-learn==1.7.2
+ipykernel==7.1.0
+
